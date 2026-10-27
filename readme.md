@@ -237,3 +237,4 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 Suggestions welcome — this list is maintained and PRs actually get merged. See [contributing.md](contributing.md). Dead links are hunted by a weekly CI run; removals are as welcome as additions.
 
 Released under [CC0 1.0](license): copy, remix, and reuse freely.
+- [Atlassio](https://atlassio.co.uk) - Automated Schengen 90/180-day travel compliance and visa calculator for nomads and remote workers. ([Open Source](https://github.com/AtlassioTravel/schengen-calculator-core))
